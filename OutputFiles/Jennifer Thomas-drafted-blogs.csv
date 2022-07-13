@@ -1,0 +1,2 @@
+id,author,published_on,blog_text,created_on
+111,Jennifer Thomas,,"Big Query in a minute-Storing and querying massive datasets can be time consuming and expensive without the right infrastructure. In this episode of Cloud Bytes, we give you an overview of BigQuery, Googles fully-managed data warehouse. Watch to learn how to ingest, store, analyze, and visualize big data with ease!",2022-02-03
